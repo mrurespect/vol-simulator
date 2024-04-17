@@ -1,0 +1,6 @@
+[submodule "volApp-back"]
+	path = volApp-back
+	url = https://github.com/mrurespect/volApp-back
+[submodule "volApp-front"]
+	path = volApp-front
+	url = https://github.com/mrurespect/airplanesimulator
