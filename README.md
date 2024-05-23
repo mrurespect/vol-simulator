@@ -14,5 +14,5 @@ The "airplanesimulator" project is an innovative and dynamic web application des
 
 This repository consists of two submodules:
 
-1. **AirPlan-front:** Contains the React frontend code.
-2. **AirPlan-back:** Contains the backend project.
+1. **AirPlan-front:** Contains the React frontend code. https://github.com/mrurespect/airplanesimulator  .
+2. **AirPlan-back:** Contains the backend project. https://github.com/mrurespect/volApp-back
